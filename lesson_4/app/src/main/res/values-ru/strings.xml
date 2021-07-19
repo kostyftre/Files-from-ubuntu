@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Ресурсы</string>
+    <string name="language">Русский</string>
+    <string name="density" tools:ignore="MissingTranslation">DPI</string>
+    <string name="orientation">Портретная ориентация</string>
+    <string name="night_mode">Ночной режим выключен</string>
+    <string name="screen_format">Коротный экран</string>
+    <string name="version" tools:ignore="MissingTranslation">Любой</string>
+    <string name="descriptionLanguage">Язык</string>
+    <string name="descriptionDensity">Плотность</string>
+    <string name="descriptionOrientation">Ориентация</string>
+    <string name="descriptionNight_mode">Ночьной режим</string>
+    <string name="descriptionScreen_format">Формат экрана</string>
+    <string name="descriptionVersion">Версия</string>
+</resources>

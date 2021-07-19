@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lesson_3</string>
+    <string name="onStart">onStart</string>
+    <string name="increase_counter">Increase counter</string>
+</resources>
